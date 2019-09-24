@@ -53,3 +53,11 @@ int a = 5;
 int *p = &a;
 ```
 > `*p` 연산을 하기 위해서는 `p` 구조에 **들어 있는 데이터의 타입을 알아야** 정확하게 데이터를 가져올 수 있다.
+
+- 근데 쌤이 계속 포인터 변수 `p`의 타입이 `int *`가 아니고 `int`라고 하셔서 자료를 찾아갔다.
+
+- https://stackoverflow.com/questions/26976496/what-is-the-data-type-of-pointer-variables
+
+- 꺄르르
+
+- 포인터 변수의 타입을 묻는 문제는 시험에 안 나온다고 하셨다.
